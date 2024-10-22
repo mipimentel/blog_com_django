@@ -1,0 +1,23 @@
+adicione gitignore para django
+# Ignore Django files
+*.log
+*.pot
+*.pyc
+__pycache__/
+
+# Ignore IDE files
+.vscode/
+.idea/
+
+# Ignore operating system files
+.DS_Store
+Thumbs.db
+
+# Ignore virtual environment files
+env/
+venv/
+virtualenv/
+
+# Ignore media and static files
+media/
+staticfiles/
